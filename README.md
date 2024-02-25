@@ -1,2 +1,10 @@
-# Fake_Image_Detection_Project
-This a Fake Image detection project using CNN Model with a efficient Trained Model
+# Fake Image Detection Project
+
+This project implements a Convolutional Neural Network (CNN) model to detect fake images, including deepfakes and manipulated visual content.
+
+## Overview
+
+- **Dataset**: Contains labeled real and fake images.
+- **Model Development**: Providing the model file(.h5).
+- **Usage**: Clone the repository, install dependencies, prepare the dataset, train the model, evaluate, and deploy.
+- **Contributing**: Contributions are welcome via pull requests.
